@@ -1,0 +1,29 @@
+{
+  "name": "tku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonrlr4/tku.git"
+  },
+  "author": "Leon Chuang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonrlr4/tku/issues"
+  },
+  "homepage": "https://github.com/leonrlr4/tku#readme",
+  "dependencies": {
+    "custombox": "^4.0.3",
+    "foundation-sites": "^6.5.1",
+    "jqcloud2": "^2.0.3",
+    "jquery": "^3.3.1",
+    "node": "^11.5.0",
+    "normalize-css": "^2.3.1",
+    "typed.js": "^2.0.9",
+    "what-input": "^5.1.3"
+  }
+}
